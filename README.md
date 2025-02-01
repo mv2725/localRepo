@@ -1,1 +1,1 @@
-# This is locak repository added by local system
+# This is local repository added by local system
